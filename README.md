@@ -2,4 +2,4 @@
 
 A screenshot of the layout
 
-![Screenshot](https://github.com/mudiadamz/web-email-template/blob/master/img/ss.jpg?raw=true)
+![Screenshot](/img/ss.jpg?raw=true)
