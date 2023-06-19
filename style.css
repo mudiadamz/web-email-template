@@ -1,0 +1,97 @@
+/* Body and Background */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E6F2F0;
+}
+
+/* Navbar */
+.navbar {
+    background: linear-gradient(to right, #82DFFF, #97D2AE);
+}
+
+.navbar-brand {
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+.navbar-logo {
+    height: 30px;
+}
+
+.navbar-search {
+    width: 300px;
+}
+
+.navbar-avatar {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: #2E8B57;
+    cursor: pointer;
+}
+
+/* Sidebar */
+.card {
+    background-color: #FFFFFF;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    color: #2E8B57;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #2E8B57;
+}
+
+.nav-link:hover {
+    color: #5DBB8B;
+}
+
+/* Inbox List */
+.card-title {
+    color: #2E8B57;
+    font-weight: bold;
+}
+
+.list-group-item {
+    border: none;
+    padding: 10px 0;
+}
+
+.list-group-item:hover {
+    background-color: #F1F8F5;
+    cursor: pointer;
+}
+/* Inbox List */
+.list-group-item .custom-form-check {
+    width: fit-content;
+    margin-right: 10px;
+}
+
+
+.email-info {
+    display: flex;
+    align-items: center;
+}
+
+.email-preview {
+    margin-bottom: 0;
+    margin-left: 10px;
+}
+
+/* Custom Styles */
+.custom-theme {
+    color: #2E8B57;
+}
+
+.custom-theme:hover {
+    color: #5DBB8B;
+}
